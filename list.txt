@@ -2,3 +2,4 @@ milk
 butter
 bread
 jam
+beer
