@@ -4,3 +4,4 @@ bread
 jam
 beer
 heinken beer
+chips
