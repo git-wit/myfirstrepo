@@ -1,2 +1,2 @@
 # myfirstrepo
-this is my firsdt repository
+this is my first repository
